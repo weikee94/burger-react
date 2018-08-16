@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import classes from './App.css';
 import Radium from 'radium';
 
 class App extends Component {
@@ -14,7 +14,7 @@ class App extends Component {
     };
 
     return (
-      <div className="App">
+      <div className={classes.App}>
         <h1 style={style}>Hello World</h1>
       </div>
     );

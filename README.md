@@ -18,6 +18,7 @@ Init Project
 - npm install
 - npm run start
 - npm install --save radium
+- npm run eject
 
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
