@@ -15,7 +15,9 @@
 
 Init Project
 - create-react-app burger-react
--
+- npm install
+- npm run start
+- npm install --save radium
 
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
