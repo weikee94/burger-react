@@ -21,6 +21,9 @@ Init Project
 - npm run eject
 
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fweikee94%2Fburger-react.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fweikee94%2Fburger-react?ref=badge_large)
+
+
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
